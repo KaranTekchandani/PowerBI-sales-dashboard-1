@@ -31,3 +31,7 @@ This project focuses on analyzing ecommerce sales data using **Microsoft Power B
 ## Requirements
   -**Microsoft Power BI Desktop** (https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
   
+
+---
+
+This repository is part of my portfolio showcasing data analysis and visualization projects. **Feedback and suggestions are welcome!**
